@@ -1,0 +1,1 @@
+The purpose of this repo is to test my working knowledge of git and github commands
